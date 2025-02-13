@@ -46,7 +46,7 @@ import java.util.HashSet; /**
  * @author wangliang
  * @date 2025-02-11 10:37:48
  */
-public class TLCR 119_WhsWhI{
+public class TLCR119_WhsWhI{
 	 public static void main(String[] args) {
 
 	 }
